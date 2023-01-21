@@ -1,0 +1,13 @@
+.header{
+    display: inline-flex;
+    background-color: rgb(212, 125, 74);
+}
+h1{
+    margin-right:100vh;
+}
+.topleft{
+    margin-left:15px;
+}
+.topright{
+    margin-right:15px;
+}
